@@ -1,1 +1,1 @@
-# course-1-project-exploratory-data-analysis
+course 1 project for exploratory data analysis
